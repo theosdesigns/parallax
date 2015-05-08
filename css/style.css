@@ -1,0 +1,71 @@
+/* CSS Document */
+body{font-family: 'Changa One', cursive;margin:0;padding:0}
+
+/*@font-face {
+    font-family: 'BebasRegular';
+    src: url('font/BEBAS___-webfont.eot');
+    src: url('font/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/BEBAS___-webfont.woff') format('woff'),
+         url('font/BEBAS___-webfont.ttf') format('truetype'),
+         url('font/BEBAS___-webfont.svg#BebasRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+
+#home { 
+	
+	background: url("../images/starlayout.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+ 
+#about { 
+	
+	background: url("../images/starlayout.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+#blog { 
+	
+	background: url("../images/starlayout.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+#contact { 
+	
+	background: url("../images/30412.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+
+#wrapper{
+	width:960px;
+	height:200px;
+	margin:0 auto;
+	position:relative;
+}
